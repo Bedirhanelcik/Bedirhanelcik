@@ -1,4 +1,4 @@
-👋 Hi, I'm Bedirhan.
+# 👋 Hi, I'm Bedirhan.
 
 🎓 3rd-year Management Information Systems student at Fenerbahçe University.
 
@@ -10,6 +10,10 @@
 
 💼 Open to internship opportunities.
 
-📫 Email: bedirhan.elcik@stu.fbu.edu.tr
+## 🤝 Let's Connect
 
-🔗 LinkedIn: https://www.linkedin.com/in/bedirhanelcik/
+Whether you're looking for a Full-Stack Developer, interested in collaborating, would like to review the source code of my portfolio projects for recruitment purposes, or are interested in purchasing or licensing one of my projects, feel free to get in touch.
+
+📧 **Email:** bedirhan.elcik@stu.fbu.edu.tr
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/bedirhanelcik/
