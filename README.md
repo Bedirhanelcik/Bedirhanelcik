@@ -8,7 +8,7 @@
 
 📌 Currently developing full-stack and AI-driven projects while exploring modern software engineering practices.
 
-💼 Open to internship opportunities.
+💼 Open to internship opportunities, software engineering roles, freelance projects, and collaborations.
 
 ## 🤝 Let's Connect
 
