@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hi, I'm Bedirhan.
 
-<!--
-**Bedirhanelcik/Bedirhanelcik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd-year Management Information Systems student at Fenerbahçe University.
 
-Here are some ideas to get you started:
+💻 Passionate about Full-Stack Development, Data Science and Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Building scalable full-stack applications and AI-integrated solutions that solve real-world problems.
+
+📌 Currently developing full-stack and AI-driven projects while exploring modern software engineering practices.
+
+💼 Open to internship opportunities.
+
+📫 Email: bedirhan.elcik@stu.fbu.edu.tr
+
+🔗 LinkedIn: https://www.linkedin.com/in/bedirhanelcik/
