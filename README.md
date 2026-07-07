@@ -14,6 +14,6 @@
 
 Whether you're looking for a Full-Stack Developer, interested in collaborating, would like to review the source code of my portfolio projects for recruitment purposes, or are interested in purchasing or licensing one of my projects, feel free to get in touch.
 
-📧 **Email:** bedirhan.elcik@stu.fbu.edu.tr
+📧 **Email:** bedrhanelck@outlook.com
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/bedirhanelcik/
