@@ -1,4 +1,4 @@
-# 💫About Me :
+# About Me :
 MIS student, developer, and project builder. I spend most of my time working on software projects, experimenting with ideas, and figuring out how to turn them into working products.
 
 ## 🌐Socials
